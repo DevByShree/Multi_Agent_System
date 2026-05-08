@@ -287,7 +287,6 @@ Large Language Models (LLMs) have rapidly transformed...
 
 <div align="center">
 
- **If you found this project helpful, give it a star!** 
 
 
 
