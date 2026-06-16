@@ -102,13 +102,13 @@ Reviews the generated report for accuracy, completeness, tone, and structure —
 
 | Technology | Purpose |
 |---|---|
-| 🐍 **Python 3.10+** | Core programming language |
-| 🦜 **LangChain** | LLM integration and chain management |
-| 🕸️ **LangGraph** | Multi-agent graph orchestration |
-| 💎 **Google Gemini API** | Large language model for generation |
-| 🍜 **BeautifulSoup4** | HTML parsing and content extraction |
-| 🌐 **Requests** | HTTP requests for web scraping |
-| 🔐 **python-dotenv** | Secure environment variable management |
+|  **Python 3.10+** | Core programming language |
+|  **LangChain** | LLM integration and chain management |
+|  **LangGraph** | Multi-agent graph orchestration |
+|  **Google Gemini API** | Large language model for generation |
+|  **BeautifulSoup4** | HTML parsing and content extraction |
+|  **Requests** | HTTP requests for web scraping |
+|  **python-dotenv** | Secure environment variable management |
 
 ---
 
